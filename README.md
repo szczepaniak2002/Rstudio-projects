@@ -6,8 +6,7 @@ Były to:
 - sqldf
 - zapytania bazowe R
 - dplyr
-- data.table![mapa 3](https://github.com/szczepaniak2002/Rstudio-projects/assets/101816148/ea22fe67-037d-42fd-b4d4-ccc137fda06a)
-
+- data.table
 
   Następnie czas zapytań i ich wydajność zostały zmierzone za pomocą wywołania microbenchmark.
 
