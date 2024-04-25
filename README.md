@@ -10,7 +10,7 @@ Były to:
 
   Następnie czas zapytań i ich wydajność zostały zmierzone za pomocą wywołania microbenchmark.
 
-  ## Projekt 2 - Bike_data_analysys
-  Celem tego projektu było zbadanie danych na temat jazdy wypożyczonymi rowerami przez mieszkańców Nowego Jorku i New Jersey.
-  Przeanalizowane zostały min. grupy wiekowe, subskrybenci oraz stacje rowerowe. Wyniki zostały zamieszczone w raporcie na wykresach.  
+## Projekt 2 - Bike_data_analysys
+Celem tego projektu było zbadanie danych na temat jazdy wypożyczonymi rowerami przez mieszkańców Nowego Jorku i New Jersey.
+Przeanalizowane zostały min. grupy wiekowe, subskrybenci oraz stacje rowerowe. Wyniki zostały zamieszczone w raporcie na wykresach.  
 
